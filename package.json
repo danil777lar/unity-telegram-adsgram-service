@@ -1,0 +1,22 @@
+{
+  "name": "com.larje.ads-telegram",
+  "version": "0.1.0",
+  "displayName": "Larje Ads Telegram (Adsgram)",
+  "description": "Adsgram ads provider for Telegram Mini Apps (WebGL) implementing Larje Core IAdsService: interstitial with cooldown and rewarded (UniTask<bool>) through a jslib bridge. Zenject installer replaces the simulated ads service.",
+  "unity": "6000.3",
+  "author": {
+    "name": "Danil Kolbasenko",
+    "email": "danil777lar@gmail.com",
+    "url": "https://github.com/danil777lar"
+  },
+  "dependencies": {
+    "com.larje.core": "0.1.0"
+  },
+  "keywords": [
+    "larje",
+    "ads",
+    "telegram",
+    "adsgram",
+    "webgl"
+  ]
+}

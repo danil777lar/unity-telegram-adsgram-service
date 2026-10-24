@@ -1,0 +1,27 @@
+{
+    "name": "Larje.Ads.Telegram.Zenject",
+    "rootNamespace": "Larje.Ads.Telegram.Zenject",
+    "references": [
+        "Larje.Core",
+        "Larje.Core.Zenject",
+        "Larje.Ads.Telegram",
+        "Zenject"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "LARJE_ZENJECT"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.larje.zenject",
+            "expression": "9.0.0",
+            "define": "LARJE_ZENJECT"
+        }
+    ],
+    "noEngineReferences": false
+}
